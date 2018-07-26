@@ -22,8 +22,8 @@
     "@angular/router": "^6.0.3",
     "core-js": "^2.5.4",
     "rxjs": "^6.0.0",
-    "web-console-core": "file:local_modules/web-console-core-0.0.3.tgz",
-    "web-console-login": "file:local_modules/web-console-login-0.0.1.tgz",
+    "web-console-core": "0.0.6",
+    "web-console-login": "0.0.2",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
